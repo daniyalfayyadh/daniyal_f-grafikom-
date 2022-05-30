@@ -1,5 +1,5 @@
-# Nama  : Muhammad Ramadhan Muna
-# NIM   : 20051397059
+# Nama  : Ahmad Daniyal Fayyadh
+# NIM   : 20051397037
 # Kelas : D4 Manajemen Informatika - 2020A
 
 from OpenGL.GL import *
